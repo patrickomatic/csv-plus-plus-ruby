@@ -1,3 +1,7 @@
+# Deprecated!!!
+
+This version of csv++ is deprecated.  For the current version please go to [github.com/patrickomatic/csv-plus-plus](https://github.com/patrickomatic/csv-plus-plus)
+
 ![main](https://github.com/patrickomatic/csv-plus-plus/actions/workflows/rspec.yml/badge.svg)
 [![Ruby Style Guide](https://img.shields.io/badge/code_style-community-brightgreen.svg)](https://rubystyle.guide)
 [![Gem Version](https://badge.fury.io/rb/csv_plus_plus.svg)](https://badge.fury.io/rb/csv_plus_plus)

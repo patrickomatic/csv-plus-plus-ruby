@@ -16,17 +16,17 @@ require 'rake'
   s.version     = ::CSVPlusPlus::VERSION
   s.license     = 'MIT'
   s.files       = ::FileList['bin/csv++', 'bin/csvpp', 'lib/**/*.rb', 'README.md', 'docs/CHANGELOG.md']
-  s.homepage    = 'https://github.com/patrickomatic/csv-plus-plus'
+  s.homepage    = 'https://github.com/patrickomatic/csv-plus-plus-ruby'
 
   s.executables = %w[csv++ csvpp]
 
   s.metadata = {
-    'bug_tracker_uri' => 'https://github.com/patrickomatic/csv-plus-plus/issues',
+    'bug_tracker_uri' => 'https://github.com/patrickomatic/csv-plus-plus-ruby/issues',
     'documentation_uri' => 'https://www.rubydoc.info/gems/csv_plus_plus/',
-    'github_repo' => 'git://github.com/patrickomatic/csv-plus-plus',
-    'homepage_uri' => 'https://github.com/patrickomatic/csv-plus-plus',
-    'source_code_uri' => 'https://github.com/patrickomatic/csv-plus-plus',
-    'changelog_uri' => 'https://github.com/patrickomatic/csv-plus-plus/blob/main/docs/CHANGELOG.md',
+    'github_repo' => 'git://github.com/patrickomatic/csv-plus-plus-ruby',
+    'homepage_uri' => 'https://github.com/patrickomatic/csv-plus-plus-ruby',
+    'source_code_uri' => 'https://github.com/patrickomatic/csv-plus-plus-ruby',
+    'changelog_uri' => 'https://github.com/patrickomatic/csv-plus-plus-ruby/blob/main/docs/CHANGELOG.md',
     'rubygems_mfa_required' => 'true'
   }
 
